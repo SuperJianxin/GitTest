@@ -19,7 +19,7 @@
 //打开主界面
 - (void) openMainView;
 //打开登录界面
-- (void) openLoginMainView1;
+- (void) openLoginMainView2;
 
 
 @end
