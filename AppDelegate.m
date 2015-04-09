@@ -50,6 +50,7 @@ UIAlertViewDelegate>
 
 + (AppDelegate *)shareAppdalegate
 {
+    //
     return (AppDelegate *)[UIApplication sharedApplication].delegate;
 }
 

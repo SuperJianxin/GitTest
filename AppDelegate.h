@@ -23,6 +23,11 @@
 
 - (void) openRegView;
 
+- (void) openMainView;
+
+//妈蛋
+- (void) openAboutView;
+
 
 @end
 
