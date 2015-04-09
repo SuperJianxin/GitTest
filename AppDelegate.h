@@ -21,6 +21,8 @@
 //打开登录界面
 - (void) openLoginMainView2;
 
+- (void) openRegView;
+
 
 @end
 
