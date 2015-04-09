@@ -21,5 +21,6 @@
 //打开登录界面
 - (void) openLoginView;
 
+
 @end
 
